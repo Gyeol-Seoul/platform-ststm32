@@ -172,7 +172,7 @@
     "framework-arduinoststm32-maple": {
       "type": "framework",
       "optional": true,
-      "version": "~2.10000.0"
+      "version": "https://github.com/Gyeol-Seoul/Arduino_STM32.git"
     },
     "framework-arduinostm32mxchip": {
       "type": "framework",
